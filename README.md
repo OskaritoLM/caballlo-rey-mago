@@ -4,7 +4,7 @@ Jose Manuel Mata Hernandez
 Oscar Ramirez Sanchez
 Valeria Gomez Herrera
 ## Nombre del personaje
-Caballo Rey Mago
+Caballo con carreta y jinete
 ## Materiales utilizados
 | Nombre de Componente   | Descripción del componente | Cantidad | Precio |
 |------------------------|-----------------------------|----------|--------|
