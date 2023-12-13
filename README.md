@@ -5,10 +5,13 @@ Oscar Ramirez Sanchez
 ## Nombre del personaje
 Caballo Rey Mago
 ## Materiales utilizados
-|Nombre de Componente|Descripción del componente|Cantidad|Precio|
+| Nombre de Componente   | Descripción del componente | Cantidad | Precio |
+|------------------------|-----------------------------|----------|--------|
+| esp32                  | Microcontrolador           | 2        | $140    |
+| Componente 2           | Descripción 2              | 2        | $15    |
+| Componente 3           | Descripción 3              | 1        | $20    |
 
-|esp32|microcontrolador de bajo costo y bajo consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), conocida por su enfoque en soluciones de conectividad inalámbrica.|2|$140|
-## Software Utilizado
+ Software Utilizado
 |Nombre de Software|Versión|Tipo|
 |--|--|--|
 |Thonny|4.1.2|Software Libre|
