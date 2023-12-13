@@ -18,7 +18,10 @@ Caballo Rey Mago
 | buzzer| dispositivo electromecánico o piezoeléctrico que produce un sonido o zumbido continuo cuando se le aplica una corriente eléctrica.|   2  | $10    |
 | cargador USB tipos v8 | conexion alambrica para cargar el codigo al microcontrolador y conectar ala energia electrica   | 1        | $140    |
 | cargador USB tipos c | conexion alambrica para cargar el codigo al microcontrolador y conectar ala energia electrica   | 1        | $140    |
- Software Utilizado
+
+
+
+ ## Software Utilizado
 |Nombre de Software|Versión|Tipo|
 |--|--|--|
 |Thonny|4.1.2|Software Libre|
@@ -28,33 +31,22 @@ Caballo Rey Mago
 
 
 ## Comunicación
-
-
-
-Describir el protocolo de comunicación que tendra el dispositivo. Describir o hablar sobre como va a interactuar un dispositivo móvil.
-Como se conecta o como mandar una orden al dispositivo. (Cómo interactua el usuario con el prototipo)
-
-Para crear un prototipo de un caballo de un rey mago eléctrico que se conecta a través de una placa ESP32 y utilizar sensores para emitir luz, sonido y moverse, estamos considerando la comunicación y la interacción con el usuario. Nos basamos en el uso de tecnologías inalámbricas comunes, como Wi-fi o Bluetooth.
-A continuación se describe como podría funcionar: 
-
-Wi-Fi o Bluetooth: La placa ESP32 podría estar equipada con módulos Wi-Fi o Bluetooth para la comunicación. Estas tecnologías permiten que el dispositivo sea detectado y controlado por un dispositivo móvil cercano.
-Configuración Inicial: Cuando el dispositivo se encienda por primera vez o entre en modo de configuración, podría actuar como un punto de acceso Wi-Fi o activar la función de emparejamiento Bluetooth. El usuario podría conectarse a este punto de acceso o emparejar el dispositivo desde su dispositivo móvil.
-Aplicación Móvil: El usuario podría descargar una aplicación móvil específica para interactuar con el pastor eléctrico.
-Interfaz de Usuario: La aplicación móvil proporcionaría una interfaz de usuario que permite al usuario configurar y controlar el pastor eléctrico. Esto incluiría ajustar la intensidad de la luz, mover las partes movibles, que podría ser la mano para hacer un saludo y emitir el sonido.
-
+la comunicacion entre laprimera Esp32 se dirige al movimiento, contiene un sensor ultrasonico colocado a un costado de la carreta integrada, ese sensor activa el primer movimiento al detectar una distancia de 10cm activando el movimiento de las patas del caballo y encendiendo los leds integrados en la carreta, despues de que temine la cabalgata procede a ejecutar el movimiento del brazo del jinete dando la impresion de que esta arreandolo y al mismo tiempo enciende dos buzzers conetados en la carreta y el encendido de los leds cambia a prenderse al ritmo de las dos melodias integradas, esto es en cuanto al movimiento por sensor.
+En lo programado en la segunda Esp realizamos la comunicacion remotamente usando la app de telegrama usando la llamada ala una API de comunicacion a un bot creado mediante la misma aplicacion, esto nos proporciona la capacidad de mandarle mensajes al bot y que los reprodusca una Led Matriz MAX7219 conectada a esta y tambien mediante el bot recibir un mensaje de conexion en donde el usuario resiva un mensaje de "Feliz navidad" en su chat de Telegram.
 ## Arquitectura
 Colocar una imagen donde coloques los sensores, los actuadores, el microcontrolador
 ![Imagen de los componentes, la arquitectura](https://github.com/RamiroHerreraX/Personaje/blob/main/imagenes/Arquitectura.jpg?raw=true)
 
 ## Base de Datos
-Colocar una imagen del modelo relacional de la base de datos (2 tablas) tabla de sensores y actuadores
 ![Imagen del modelo relacional de la base de datos](https://github.com/RamiroHerreraX/Personaje/blob/main/imagenes/Modelo%20Relacional%20BD.jpg?raw=true)
 
 ## Video Funcionamiento
 
-
-
 https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/3e999ee5-30a9-44be-b821-5c7649ee1d26
+
+## Flujo de conexion remota
+### creacion de bot en telegram
+![image](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/1d5e96b7-9179-45e8-8b91-a14a67ef500a)
 
 
 ## Prototipo en dibujo
