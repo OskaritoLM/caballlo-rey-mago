@@ -6,7 +6,7 @@ Oscar Ramirez Sanchez
 Caballo Rey Mago
 ## Materiales utilizados
 |Nombre de Componente|Descripción del componente|Cantidad|Precio|
-|--|--|--|--|
+|esp32|microcontrolador de bajo costo y bajo consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), conocida por su enfoque en soluciones de conectividad inalámbrica.|2|$140|
 ## Software Utilizado
 |Nombre de Software|Versión|Tipo|
 |--|--|--|
