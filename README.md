@@ -13,9 +13,9 @@ Caballo Rey Mago
 | cable H-M M-H H-H                  | coneccines para la comunicacion entre el microcontrolador y componente.|   60     | $69    |
 | motor a pasos con Driver                | motor eléctrico que convierte pulsos eléctricos en movimientos angulares discretos o pasos.| 1       | $69   |
 | servomotor | motor utilizado para controlar el movimiento de un objeto o sistema mecánico de manera precisa| 1       | $40   |
-| Matriz MAX7219| dispositivo que permite la conexión y el control de una matriz de diodos emisores de luz (LEDs) de manera eficiente. El MAX7219 es un controlador de matriz de LEDs que facilita la interfaz entre un microcontrolador y la matriz de LEDs, permitiendo el control de la iluminación de cada LED de manera independiente | 2        | $140    |
-| esp32                  | Microcontrolador           | 2        | $140    |
-| esp32                  | Microcontrolador           | 2        | $140    |
+| Matriz MAX7219| dispositivo que permite la conexión y el control de una matriz de diodos emisores de luz (LEDs) de manera eficiente. El MAX7219 es un controlador de matriz de LEDs que facilita la interfaz entre un microcontrolador y la matriz de LEDs, permitiendo el control de la iluminación de cada LED de manera independiente | 1        | $140    |
+| buzzer| dispositivo electromecánico o piezoeléctrico que produce un sonido o zumbido continuo cuando se le aplica una corriente eléctrica.|   2  | $10    |
+| cables USB    | Microcontrolador           | 2        | $140    |
 
  Software Utilizado
 |Nombre de Software|Versión|Tipo|
