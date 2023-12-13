@@ -8,8 +8,14 @@ Caballo Rey Mago
 | Nombre de Componente   | Descripción del componente | Cantidad | Precio |
 |------------------------|-----------------------------|----------|--------|
 | esp32                  | Microcontrolador           | 2        | $140    |
-| Sensor Ultrasonico           |  dispositivo que utiliza ondas ultrasónicas para medir la distancia entre el sensor y un objeto            | 1        | $45    |
-| Componente 3           | Descripción 3              | 1        | $20    |
+| Sensor Ultrasonico           |  dispositivo que utiliza ondas ultrasónicas para medir la distancia entre el sensor y un objeto.| 1        | $45    |
+| leds         | Los LEDs (diodos emisores de luz, por sus siglas en inglés) son dispositivos semiconductores que emiten luz cuando se les aplica una corriente eléctrica.| 5       | $1    |
+| cable H-M M-H H-H                  | coneccines para la comunicacion entre el microcontrolador y componente.|   60     | $69    |
+| motor a pasos con Driver                | motor eléctrico que convierte pulsos eléctricos en movimientos angulares discretos o pasos.| 1       | $69   |
+| servomotor | motor utilizado para controlar el movimiento de un objeto o sistema mecánico de manera precisa| 1       | $40   |
+| Matriz MAX7219| dispositivo que permite la conexión y el control de una matriz de diodos emisores de luz (LEDs) de manera eficiente. El MAX7219 es un controlador de matriz de LEDs que facilita la interfaz entre un microcontrolador y la matriz de LEDs, permitiendo el control de la iluminación de cada LED de manera independiente | 2        | $140    |
+| esp32                  | Microcontrolador           | 2        | $140    |
+| esp32                  | Microcontrolador           | 2        | $140    |
 
  Software Utilizado
 |Nombre de Software|Versión|Tipo|
