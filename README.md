@@ -50,6 +50,9 @@ Colocar una imagen donde coloques los sensores, los actuadores, el microcontrola
 Colocar una imagen del modelo relacional de la base de datos (2 tablas) tabla de sensores y actuadores
 ![Imagen del modelo relacional de la base de datos](https://github.com/RamiroHerreraX/Personaje/blob/main/imagenes/Modelo%20Relacional%20BD.jpg?raw=true)
 
+## Video esplicacion
+
+
 ## Prototipo en dibujo
 ![Imagen de WhatsApp 2023-11-08 a las 22 07 55_495f7ef4](https://github.com/18Manu/Personaje/assets/116208760/d20bba6b-53a1-44a6-b7f2-bc16c7301c58)
 
