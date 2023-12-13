@@ -18,6 +18,9 @@ Caballo Rey Mago
 | buzzer| dispositivo electromecánico o piezoeléctrico que produce un sonido o zumbido continuo cuando se le aplica una corriente eléctrica.|   2  | $10    |
 | cargador USB tipos v8 | conexion alambrica para cargar el codigo al microcontrolador y conectar ala energia electrica   | 1        | $140    |
 | cargador USB tipos c | conexion alambrica para cargar el codigo al microcontrolador y conectar ala energia electrica   | 1        | $140    |
+| Madera                 | Para la creacion de las piesas como engranes y apariencia del caballo      | 1 plantilla       | $250 ya con recortes    |
+| Carton            | Algunas piezas ligeras para el movimiento efectivo de algunas articulaciones            | 1 carton       | $10   |
+| decorativos              | escarcha, silicon, pinturas, etc       | varios       | $100    |
 
 
 
