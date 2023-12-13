@@ -31,6 +31,7 @@ Caballo Rey Mago
 |Visual Studio Code|1.82.2|Software Libre (Editor de código fuente independiente)|
 |Platformio IDE|3.3.0|Software Libre (Herramienta Desarrollo C)|
 |Arduino IDE|2.2.1|Aplicación multiplataforma|
+|Telegrama|10.3.2|Aplicación Comunicacion (Red Social)|
 
 
 ## Comunicación
