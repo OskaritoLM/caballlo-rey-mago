@@ -28,6 +28,9 @@ Caballo Rey Mago
 
 
 ## Comunicación
+
+
+
 Describir el protocolo de comunicación que tendra el dispositivo. Describir o hablar sobre como va a interactuar un dispositivo móvil.
 Como se conecta o como mandar una orden al dispositivo. (Cómo interactua el usuario con el prototipo)
 
