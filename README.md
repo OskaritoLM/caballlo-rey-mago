@@ -4,7 +4,7 @@ Jose Manuel Mata Hernandez
 Oscar Ramirez Sanchez
 Valeria Gomez Herrera
 ## Nombre del personaje
-Caballo Rey Mago
+Caballo con carreta y jinete
 ## Materiales utilizados
 | Nombre de Componente   | Descripción del componente | Cantidad | Precio |
 |------------------------|-----------------------------|----------|--------|
@@ -18,6 +18,9 @@ Caballo Rey Mago
 | buzzer| dispositivo electromecánico o piezoeléctrico que produce un sonido o zumbido continuo cuando se le aplica una corriente eléctrica.|   2  | $10    |
 | cargador USB tipos v8 | conexion alambrica para cargar el codigo al microcontrolador y conectar ala energia electrica   | 1        | $140    |
 | cargador USB tipos c | conexion alambrica para cargar el codigo al microcontrolador y conectar ala energia electrica   | 1        | $140    |
+| Madera                 | Para la creacion de las piesas como engranes y apariencia del caballo      | 1 plantilla       | $250 ya con recortes    |
+| Carton            | Algunas piezas ligeras para el movimiento efectivo de algunas articulaciones            | 1 carton       | $10   |
+| decorativos              | escarcha, silicon, pinturas, etc       | varios       | $100    |
 
 
 
@@ -28,6 +31,7 @@ Caballo Rey Mago
 |Visual Studio Code|1.82.2|Software Libre (Editor de código fuente independiente)|
 |Platformio IDE|3.3.0|Software Libre (Herramienta Desarrollo C)|
 |Arduino IDE|2.2.1|Aplicación multiplataforma|
+|Telegrama|10.3.2|Aplicación Comunicacion (Red Social)|
 
 
 ## Comunicación
