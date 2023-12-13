@@ -44,14 +44,21 @@ Colocar una imagen donde coloques los sensores, los actuadores, el microcontrola
 
 https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/3e999ee5-30a9-44be-b821-5c7649ee1d26
 
-## Flujo de conexion remota
-### creacion de bot en telegram
-![image](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/1d5e96b7-9179-45e8-8b91-a14a67ef500a)
-
 
 ## Prototipo en dibujo
 ![Imagen de WhatsApp 2023-11-08 a las 22 07 55_495f7ef4](https://github.com/18Manu/Personaje/assets/116208760/d20bba6b-53a1-44a6-b7f2-bc16c7301c58)
 
 
 ## Diagrama en Wokwi
-![Captura de pantalla 2023-11-08 224230](https://github.com/18Manu/Personaje/assets/116208760/f76099b5-0a13-466f-8a16-abd65436611f)
+![image](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/7b31bd00-4875-4e54-883b-53685c4a57b0)
+
+
+## Flujo de conexion remota
+### creacion de bot en telegram
+![image](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/1d5e96b7-9179-45e8-8b91-a14a67ef500a)
+
+### Codigo para enlazar 
+![Captura de pantalla 2023-12-12 222815](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/557a354a-9e1b-4bd8-ab05-b4dafac54546)
+
+### link para mandar el mensaje generado 
+![Imagen de WhatsApp 2023-12-12 a las 21 16 23_2600e4df](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/01443951-accd-4f65-a085-f32eb70cdf2b)
