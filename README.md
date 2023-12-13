@@ -2,6 +2,7 @@
 ## Integrantes
 Jose Manuel Mata Hernandez
 Oscar Ramirez Sanchez
+Valeria Gomez Herrera
 ## Nombre del personaje
 Caballo Rey Mago
 ## Materiales utilizados
@@ -15,13 +16,12 @@ Caballo Rey Mago
 | servomotor | motor utilizado para controlar el movimiento de un objeto o sistema mecánico de manera precisa| 1       | $40   |
 | Matriz MAX7219| dispositivo que permite la conexión y el control de una matriz de diodos emisores de luz (LEDs) de manera eficiente. El MAX7219 es un controlador de matriz de LEDs que facilita la interfaz entre un microcontrolador y la matriz de LEDs, permitiendo el control de la iluminación de cada LED de manera independiente | 1        | $140    |
 | buzzer| dispositivo electromecánico o piezoeléctrico que produce un sonido o zumbido continuo cuando se le aplica una corriente eléctrica.|   2  | $10    |
-| cables USB    | Microcontrolador           | 2        | $140    |
-
+| cargador USB tipos v8 | conexion alambrica para cargar el codigo al microcontrolador y conectar ala energia electrica   | 1        | $140    |
+| cargador USB tipos c | conexion alambrica para cargar el codigo al microcontrolador y conectar ala energia electrica   | 1        | $140    |
  Software Utilizado
 |Nombre de Software|Versión|Tipo|
 |--|--|--|
 |Thonny|4.1.2|Software Libre|
-|SQlite|3.12.2|Software Libre (Gestor de Base de Datos)|
 |Visual Studio Code|1.82.2|Software Libre (Editor de código fuente independiente)|
 |Platformio IDE|3.3.0|Software Libre (Herramienta Desarrollo C)|
 |Arduino IDE|2.2.1|Aplicación multiplataforma|
@@ -40,7 +40,7 @@ Aplicación Móvil: El usuario podría descargar una aplicación móvil específ
 Interfaz de Usuario: La aplicación móvil proporcionaría una interfaz de usuario que permite al usuario configurar y controlar el pastor eléctrico. Esto incluiría ajustar la intensidad de la luz, mover las partes movibles, que podría ser la mano para hacer un saludo y emitir el sonido.
 
 ## Arquitectura
-Colocar una imagen donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql)
+Colocar una imagen donde coloques los sensores, los actuadores, el microcontrolador
 ![Imagen de los componentes, la arquitectura](https://github.com/RamiroHerreraX/Personaje/blob/main/imagenes/Arquitectura.jpg?raw=true)
 
 ## Base de Datos
