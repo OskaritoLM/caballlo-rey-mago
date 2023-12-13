@@ -8,7 +8,7 @@ Caballo Rey Mago
 | Nombre de Componente   | Descripción del componente | Cantidad | Precio |
 |------------------------|-----------------------------|----------|--------|
 | esp32                  | Microcontrolador           | 2        | $140    |
-| Componente 2           | Descripción 2              | 2        | $15    |
+| Sensor Ultrasonico           |  dispositivo que utiliza ondas ultrasónicas para medir la distancia entre el sensor y un objeto            | 1        | $45    |
 | Componente 3           | Descripción 3              | 1        | $20    |
 
  Software Utilizado
