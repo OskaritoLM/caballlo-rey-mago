@@ -50,7 +50,11 @@ Colocar una imagen donde coloques los sensores, los actuadores, el microcontrola
 Colocar una imagen del modelo relacional de la base de datos (2 tablas) tabla de sensores y actuadores
 ![Imagen del modelo relacional de la base de datos](https://github.com/RamiroHerreraX/Personaje/blob/main/imagenes/Modelo%20Relacional%20BD.jpg?raw=true)
 
-## Video esplicacion
+## Video Funcionamiento
+
+
+
+https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/3e999ee5-30a9-44be-b821-5c7649ee1d26
 
 
 ## Prototipo en dibujo
