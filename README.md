@@ -31,7 +31,7 @@ Caballo Rey Mago
 
 
 ## Comunicación
-la comunicacion entre laprimera Esp32 se dirige al movimiento, contiene un sensor ultrasonico colocado a un costado de la carreta integrada, ese sensor activa el primer movimiento al detectar una distancia de 10cm activando el movimiento de las patas del caballo y encendiendo los leds integrados en la carreta, despues de que temine la cabalgata procede a ejecutar el movimiento del brazo del jinete dando la impresion de que esta arreandolo y al mismo tiempo enciende dos buzzers conetados en la carreta y el encendido de los leds cambia a prenderse al ritmo de las dos melodias integradas, esto es en cuanto al movimiento por sensor.
+La comunicacion entre la primera Esp32 se dirige al movimiento, contiene un sensor ultrasonico colocado a un costado de la carreta integrada, ese sensor activa el primer movimiento al detectar una distancia de 10cm activando el movimiento de las patas del caballo y encendiendo los leds integrados en la carreta, despues de que temine la cabalgata procede a ejecutar el movimiento del brazo del jinete dando la impresion de que esta arreandolo y al mismo tiempo enciende dos buzzers conetados en la carreta y el encendido de los leds cambia a prenderse al ritmo de las dos melodias integradas, esto es en cuanto al movimiento por sensor.
 En lo programado en la segunda Esp realizamos la comunicacion remotamente usando la app de telegrama usando la llamada ala una API de comunicacion a un bot creado mediante la misma aplicacion, esto nos proporciona la capacidad de mandarle mensajes al bot y que los reprodusca una Led Matriz MAX7219 conectada a esta y tambien mediante el bot recibir un mensaje de conexion en donde el usuario resiva un mensaje de "Feliz navidad" en su chat de Telegram.
 ## Arquitectura
 Colocar una imagen donde coloques los sensores, los actuadores, el microcontrolador
@@ -62,3 +62,11 @@ https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/3e999ee5-30a9-4
 
 ### link para mandar el mensaje generado 
 ![Imagen de WhatsApp 2023-12-12 a las 21 16 23_2600e4df](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/01443951-accd-4f65-a085-f32eb70cdf2b)
+
+## Imagenes de la creacion del codigo
+![Imagen de WhatsApp 2023-12-12 a las 23 04 16_46de7eea](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/4675ea54-1ecc-4f92-ab81-e85599b8015f)
+![Imagen de WhatsApp 2023-12-12 a las 23 04 17_cdc337d3](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/76763852-bec6-4b71-8b46-06bb631949ea)
+![Imagen de WhatsApp 2023-12-12 a las 23 04 17_932b0af4](https://github.com/OskaritoLM/caballlo-rey-mago/assets/116208760/f3d3f7dd-9301-4648-a1f1-9d863260f5f0)
+
+
+
